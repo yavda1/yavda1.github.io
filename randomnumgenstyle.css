@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    background-color: darkblue;
+}
+#count{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: relative;
+    left: 1000px;
+    top: 150px;
+    
+    
+}
+.button{
+    position: relative;
+    top: 300px;
+    left: 900px;
+    font-size: 50px;    
+    
+}
+#titlepage{
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: relative;
+    left: 800px;
+    top: 0px;
+    
+    
+}
