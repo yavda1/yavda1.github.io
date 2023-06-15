@@ -1,0 +1,11 @@
+site_name: yavda1.github.io
+site_url: https://yavda1.github.io/
+
+theme:
+  name: slate
+  font:
+    size: 30px
+nav:
+    - Home: index.md
+    - Guides:
+        - guides/boot2vwii.md
