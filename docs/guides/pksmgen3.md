@@ -32,6 +32,9 @@ Here, you will register your save file so that it normally shows up with all of 
 ## Troubleshooting
 
 Issue: Even when I register it, it's still not showing up
+
 Answer: You need to have played the game and saved
+
 Issue: Title ID not found
+
 Answer: You entered the incorrect title id
