@@ -17,7 +17,7 @@ You will need to know the location of your save file. It is always in the direct
 
 1. Open PKSM
 2. On the bottom screen, click the 'miscellaneous' option
-3. Tap 'extra saves'
+3. Tap on `extra saves`
   ![extrasaves](../img/PKSM-Extra-saves-Bottom-Sreen.png)
 4. You will be brought to a screen that looks like this
   ![savegroup](../img/PKSM-Save-Group.png)
