@@ -3,6 +3,8 @@ site_url: https://yavda1.github.io/
 
 theme:
   name: slate
+markdown_extensions:
+    - admonition
 
 nav:
     - Home: index.md
