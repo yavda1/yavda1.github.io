@@ -8,3 +8,4 @@ nav:
     - Home: index.md
     - Guides:
         - guides/boot2vwii.md
+        - guides/pksmtwilight.md
