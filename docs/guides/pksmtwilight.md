@@ -18,12 +18,12 @@ You will need to know the location of your save file. It is always in the direct
 1. Open PKSM
 2. On the bottom screen, click the 'miscellaneous' option
 3. Tap 'extra saves'
-  - ![extrasaves](../img/PKSM-Extra-saves-Bottom-Sreen.png)
+  ![extrasaves](../img/PKSM-Extra-saves-Bottom-Sreen.png)
 4. You will be brought to a screen that looks like this
-  - ![savegroup](../img/PKSM-Save-Group.png)
+  ![savegroup](../img/PKSM-Save-Group.png)
 5. Select the icon for whichever game you're editing
 6. You will be brought to a screen with all of the directories on the root of your SD card. Navigate to the one with your save file, then click on it. They always end in `.sav`
-  - ![directoryscreen](../img/PKSM-Directory-Selector.png)
+  ![directoryscreen](../img/PKSM-Directory-Selector.png)
 7. You've successfully registered your save! Press `y` to exit this screen.
 
 ## Editing the save file
