@@ -1,6 +1,6 @@
 # Home
 
-hi, yavda1 or javdu. I just kinda setup this site so its gonna be pretty empty. 
+hi, i'm yavda1 or javdu. I just kinda setup this site so its gonna be pretty empty. 
 
 ## Stuff I've made
 
