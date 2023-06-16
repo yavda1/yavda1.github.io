@@ -2,9 +2,6 @@
 
 PKSM is a very powerful tool that allows you to edit saves for generations 1-8. Ordinarily PKSM only detects cartridge and digital games seemingly making it impossible to use with the Twilight menu or any miscellaneous save file. However, PKSM has a feature that allows you to do this, and this guide will detail it.
 
-!!! note
-This tutorial already presumes you have PKSM and know how to use it. You can find a guide PKSM [here](/pksm). It also presumes you have the Twilight menu.
-
 ## What do I need?
 
 - [PKSM](https://github.com/FlagBrew/PKSM/releases/10.0.0/)
